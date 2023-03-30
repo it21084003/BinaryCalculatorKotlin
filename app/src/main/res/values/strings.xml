@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Binary Calculator</string>
+
+    <string-array name="selectType_list">
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>HexDecimal</item>
+    </string-array>
+</resources>
