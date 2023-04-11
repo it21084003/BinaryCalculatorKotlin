@@ -108,21 +108,6 @@ class MainActivity : AppCompatActivity() {
         HexDecimalText = findViewById(R.id.hexdecimalValue)
         }
 
-//    fun checkWordinclude(value: String) : Boolean{
-//        val words = "abcdefghijklmnopqrstuvwxyz"
-//        val Words = words.uppercase()
-//        //val splitArray = value.split("")
-//
-//
-//
-//
-//
-//        if(words.contains(value) || Words.contains(value)){
-//            return true
-//        }
-//        return false
-//
-//    }
 
     fun binaryToDecimal(value: Long) : Int{
         var num = value
